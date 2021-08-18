@@ -1,0 +1,1 @@
+yum -y install perl-Class-Load perl-Data-OptList perl-Params-Validate perl-Sys-Syslog perl-version dejavu-sans-mono-fonts perl-Digest perl-Digest-MD5 perl-Digest-SHA perl-IO-Socket-IP perl-IO-Socket-SSL perl-JSON-PP perl-Net-SSLeayrrdtool rrdtool-perl
